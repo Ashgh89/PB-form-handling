@@ -29,7 +29,7 @@ const Input = () => {
   return (
     <div>
       <form className={styles.enrolForm} onSubmit={handleSubmit}>
-        <h1>Students Details</h1>
+        <h1>Login</h1>
         <label htmlFor="f">First Name:</label>
         <input
           id="f"
@@ -50,7 +50,7 @@ const Input = () => {
         />
         <br />
         <br />
-        <input type="submit" value="Submit" />
+        <input type="submit" value="Login" />
         <label>{fullName.welcome}</label>
         {/* {<div>{welcome ? <p>{welcome}</p> : null}</div>} */}
       </form>
