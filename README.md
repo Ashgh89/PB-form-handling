@@ -16,3 +16,4 @@
 ### Task 2 - using React hooks
 
 - use react hooks like useState, useEffect and useRef
+- By clicking on Login button you must see your first name or last name or both on the browser. For example Welcome Thomas Müller
