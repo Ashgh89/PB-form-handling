@@ -1,0 +1,20 @@
+.enrolForm {
+  font-size: 25px;
+  width: 500px;
+  padding: 100px;
+  margin: 0 auto;
+}
+
+.enrolForm input[type="text"] {
+  margin: 20px;
+  padding: 20px;
+  border: none;
+  box-shadow: 0 0 25px 4px rgba(0, 0, 0, 0.7);
+}
+
+.enrolForm input[type="submit"] {
+  background-color: rgb(26, 175, 125);
+  font-size: inherit;
+  cursor: pointer;
+  color: #fff;
+}
